@@ -1,0 +1,8 @@
+client should -->req-->server(static req)
+server-->response-->client
+java file taqke req from client process req provide u response in form of html page.
+
+clinet-->server(dynamic server)
+
+tomcat-->(web container)
+                                                                      
